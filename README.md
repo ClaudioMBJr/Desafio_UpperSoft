@@ -3,8 +3,8 @@ Desafio proposto pela UpperSoft.
 
 Linguagem utilizada para o desenvolvimento:
 
-    Kotlin
+          Kotlin
 
 IDE utilizada:
 
-  Android Studio
+         Android Studio
