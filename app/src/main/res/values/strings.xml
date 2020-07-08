@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Android</string>
+    <string name="button01">Consultar r/androiddev</string>
+    <string name="text01">UpperSoft</string>
+    <string name="text02">Desenvolvido por Claudio Magno</string>
+    <string name="text03">Bem-vindo!</string>
+    <string name="text04">r/androiddev</string>
+</resources>
