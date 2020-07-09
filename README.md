@@ -3,8 +3,21 @@ Desafio proposto pela UpperSoft.
 
 Linguagem utilizada para o desenvolvimento:
 
-          Kotlin
+--Kotlin
 
 IDE utilizada:
 
-         Android Studio
+--Android Studio
+
+
+Descrição do app:
+
+  Aplicativo desenvolvido visando concluir um desafio proposto pela empresa UpperSoft.
+  O funcionamento é fundamentalmente exercer serviços de requisição para API e demosntrar o conteúdo na tela.
+  Para isso, foi utilizado as seguintes bibliotecas:
+  
+       -- OkHttp
+       -- Gson
+       -- Handle
+  
+ 
