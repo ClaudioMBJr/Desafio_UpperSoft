@@ -3,11 +3,11 @@ Desafio proposto pela UpperSoft.
 
 Linguagem utilizada para o desenvolvimento:
 
-  ---Kotlin
+  -Kotlin
 
 IDE utilizada:
 
-  ---Android Studio
+  -Android Studio
 
 
 Descrição do app:
@@ -16,7 +16,7 @@ Descrição do app:
   O funcionamento é fundamentalmente exercer serviços de requisição para API e demosntrar o conteúdo na tela.
   Bibliotecas utlizadas no desenvolvimento:
   
-   --- OkHttp
-   --- Gson
+   - OkHttp
+   - Gson
   
  
