@@ -13,7 +13,8 @@ IDE utilizada:
 Descrição do app:
 
   Aplicativo desenvolvido visando concluir um desafio proposto pela empresa UpperSoft.
-  O funcionamento é fundamentalmente exercer serviços de requisição para API e demosntrar o conteúdo na tela.
+  O funcionamento é fundamentalmente exercer um serviço de requisição para um API recebendo um conteúdo JSON.
+  Após a resposta da solicitação finalizada, o conteúdo é tratado e demonstrado na tela do app.
   Bibliotecas utlizadas no desenvolvimento:
   
    - OkHttp
